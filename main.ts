@@ -10,7 +10,7 @@ const OUTPUT_FILE = "entry.txt";
 const CHAR_CAP = 199;
 
 const ENTRY =
-  "In 2019 I hit reply-all with 'Thanks!' Forty people replied 'Thanks!' back. It's now a standing Tuesday meeting. The invite lists me as 'founder.'";
+  "I booked a 15-minute sync in 2020 to 'quickly align.' It still recurs every week. Nobody remembers the topic. Last month it was given a budget, and I was told I now report to it.";
 
 function reject(reason: string): never {
   console.error(`${OUTPUT_FILE} rejected: ${reason}`);
